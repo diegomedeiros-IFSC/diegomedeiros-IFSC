@@ -1,7 +1,6 @@
 - 🔭 I’m currently working on Instituto Federal da Santa Catarina (IFSC) in Campus São José
 - 🌱 I’m currently learning how to manage Git and GitHub
 - 👯 I’m looking to collaborate on my own goods
-- 🤔 I’m looking for help with GitHub
 - 💬 Ask me about nothing, I don't know any answers
 - 📫 How to reach me: "segue reto toda vida"
 - 😄 Pronouns: Dr. :-p
